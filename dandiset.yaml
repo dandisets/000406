@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000406
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.3/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -21,15 +22,23 @@ contributor:
   schemaKey: Person
 dateCreated: '2023-01-13T21:17:32.783139+00:00'
 description: Sample data used in Spyglass Notebook tutorials.
+ethicsApproval: []
 id: DANDI:000406/draft
 identifier: DANDI:000406
+keywords:
+- spyglass
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000406/versions/draft/assets/
 name: Spyglass sample data
+protocol:
+- N/A
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000406/draft
 version: draft
+wasGeneratedBy: []
